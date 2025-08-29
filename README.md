@@ -30,7 +30,7 @@ From the review, the following standout features have been chosen to integrate i
 
 ---
 
-## 🎨 Design System  
+## Design System  
 
 ### 1. Colors  
 - **Primary Color:** `#3B82F6` (Blue – buttons, highlights)  
@@ -59,8 +59,10 @@ From the review, the following standout features have been chosen to integrate i
 
 ---
 
-## 🎨 Figma Design Link  
-👉 [View Figma Design](https://www.figma.com/design/TWew1TX5GdRDg4r7gFDfQH/Untitled?node-id=0-1&t=FhStB6NSGjA5RLJ3-1)
+##  Figma Design Link  
+ https://www.figma.com/design/TWew1TX5GdRDg4r7gFDfQH/Untitled?node-id=0-1&t=FhStB6NSGjA5RLJ3-1
 
----
+##Github Link
+https://github.com/Modassir22/Assignment.git
+
 
