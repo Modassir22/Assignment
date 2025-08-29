@@ -1,0 +1,12 @@
+[
+  {
+    "id": "model-1",
+    "name": "GPT-4",
+    "description": "Advanced language model"
+  },
+  {
+    "id": "model-2", 
+    "name": "Claude",
+    "description": "Anthropic's AI assistant"
+  }
+]

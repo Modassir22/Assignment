@@ -1,0 +1,12 @@
+[
+  {
+    "id": "template-1",
+    "name": "Chat Template",
+    "content": "Hello! How can I help you?"
+  },
+  {
+    "id": "template-2",
+    "name": "Code Review",
+    "content": "Please review this code:"
+  }
+]
